@@ -1,5 +1,5 @@
 # 1a-FREQUENCY-RESPONSE-OF-VOLTAGE-SERIES-FEEDBACK-AMPLIFIER.md
-[## Exp. No. 1(a)
+
 **Date:**  
 ## FREQUENCY RESPONSE OF VOLTAGE SERIES FEEDBACK AMPLIFIER
 <img width="1117" height="1192" alt="image" src="https://github.com/user-attachments/assets/53877086-6a31-494a-a6ac-e5746cacd3db" />
@@ -14,12 +14,11 @@
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
 ## Tabulation
-![323e7e39-85ce-4096-a6aa-b03217665699](https://github.com/user-attachments/assets/309f725c-5301-4b86-9037-938ffc13bb7b)
+
 
 
 
 ## Graph
-![ace9dfa2-3bba-420a-a5b1-08f8d41f8119](https://github.com/user-attachments/assets/0d91b6a7-2c56-4384-9db9-097572270539)
 
 
 ## Sample images 
